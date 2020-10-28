@@ -18,10 +18,15 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        public IActionResult Edit()
+        public IActionResult Exit()
         {
-            //dodata fija edit u masteru
+            // ova exit metoda je dodata preko treceGrane
             return View();
         }
+
     }
+
+
+
+
 }
