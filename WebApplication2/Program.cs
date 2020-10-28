@@ -7,6 +7,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+// prvi comment u program.cs
+
 namespace WebApplication2
 {
     public class Program
