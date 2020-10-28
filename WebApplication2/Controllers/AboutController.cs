@@ -17,5 +17,11 @@ namespace WebApplication2.Controllers
             
             return View();
         }
+
+        public IActionResult Edit()
+        {
+            //dodata fija edit u masteru
+            return View();
+        }
     }
 }
