@@ -17,5 +17,16 @@ namespace WebApplication2.Controllers
             
             return View();
         }
+
+        public IActionResult Exit()
+        {
+            // ova exit metoda je dodata preko treceGrane
+            return View();
+        }
+
     }
+
+
+
+
 }
